@@ -1,0 +1,75 @@
+{
+    "success": true,
+    "data": [
+        {
+            "id": 1,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "FACE_DETECTED",
+            "source":"TCGD/Kolkata/Pantry-camera/1",
+            "frame":"/images/a.jpg"
+        },
+        {
+            "id": 2,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "MASK_DETECTED",
+            "source":"TCGD/Kolkata/Gate-camera/1",
+            "frame":"/images/b.jpg"
+        },
+        {
+            "id": 3,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "FACE_DETECTED",
+            "source":"TCGD/Kolkata/Pantry-camera/1",
+            "frame":"/images/c.jpg"
+        },
+        {
+            "id": 4,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "MASK_DETECTED",
+            "source":"TCGD/Kolkata/Gate-camera/1",
+            "frame":"/images/d.jpg"
+        },
+        {
+            "id": 5,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "FACE_DETECTED",
+            "source":"TCGD/Kolkata/Pantry-camera/1",
+            "frame":"/images/a.jpg"
+        },
+        {
+            "id": 6,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "MASK_DETECTED",
+            "source":"TCGD/Kolkata/Gate-camera/1",
+            "frame":"/images/b.jpg"
+        },
+        {
+            "id": 7,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "FACE_DETECTED",
+            "source":"TCGD/Kolkata/Pantry-camera/1",
+            "frame":"/images/c.jpg"
+        },
+        {
+            "id": 8,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "MASK_DETECTED",
+            "source":"TCGD/Kolkata/Gate-camera/1",
+            "frame":"/images/d.jpg"
+        },
+        {
+            "id": 9,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "FACE_DETECTED",
+            "source":"TCGD/Kolkata/Pantry-camera/1",
+            "frame":"/images/a.jpg"
+        },
+        {
+            "id": 10,
+            "timestamp": "2024-10-25T13:08:15",
+            "violation_type": "MASK_DETECTED",
+            "source":"TCGD/Kolkata/Gate-camera/1",
+            "frame":"/images/b.jpg"
+        }
+    ]
+}
